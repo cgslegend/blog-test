@@ -22,3 +22,6 @@
 git remote add origin git@github.com:cgslegend/blog-test.git
 git push -u origin master
 ```
+一行代码
+
+    git push -u origin master
